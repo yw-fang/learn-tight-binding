@@ -10,4 +10,5 @@ Yue-Wen FANG
 
 2019 October 18th
 
-## [Notes for "Chapter 3 Tight-Binding Methods" in the book entitled "Computational Materials Science" by Prof. Kaoru OHNO](ch3-TB-methods-notes-20191018)
+## [Notes for "Chapter 3 Tight-Binding Methods" in the book entitled "Computational Materials Science" by Prof. Kaoru OHNO](ch3-TB-methods-notes-20191018.md)
+
